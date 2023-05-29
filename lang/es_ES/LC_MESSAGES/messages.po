@@ -1,0 +1,9 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Add to Favorites"
+msgstr "Agregar a Favoritos"
+
+msgid "Remove from Favorites"
+msgstr "Eliminar de Favoritos"
